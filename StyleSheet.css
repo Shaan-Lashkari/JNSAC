@@ -1,0 +1,23 @@
+﻿body{
+    text-align:center ;
+    scroll-behavior: smooth;
+}
+.fa-star{
+    color:sandybrown;
+}.navbar-inverse{
+    top: 0%;
+    position:fixed;
+    width: 100%;
+    z-index: 9999;
+}
+.img-zoom{
+    transition: 0.2s;
+    border-radius: 20px;
+}
+.img-zoom:hover{
+    transform: scale(1.1);
+}
+.scrollable{
+    height:400px!important;
+    background-color: blue;
+}
